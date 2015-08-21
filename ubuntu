@@ -1,0 +1,52 @@
+# [必备]
+sudo apt-get install git git-flow
+ 
+# [必备]Terminator 超级好用的终端，可以用来代替原生终端
+sudo apt-get install terminator 
+ 
+# [必备] 桌面系统
+sudo apt-get install awesome # 终极清凉，全键盘控制
+ 
+# [必备]Gvim，必备
+sudo apt-get install vim-gtk
+ 
+# Virtualbox 虚拟机，装xp
+sudo apt-get install virtualbox
+  
+#快速启动程序dmenu aswsome下神器，快捷键 win+p
+sudo apt-get install dmenu
+  
+# Oh-My-Zsh 原生的shell可以扔掉了
+https://github.com/sjl/oh-my-zsh
+  
+# Sreen 无法形容的好用
+sudo apt-get install screen
+ 
+# FileZilla FTP神器
+sudo apt-get install filezilla
+ 
+# 快速打开、切换程序
+sudo apt-get install kupfer
+
+
+工具篇
+没有特别说明的，都只针对ubuntu，通过 sudo apt-get install 软件名 就可以安装
+
+快速启动
+快速启动程序：kupfer，awesome下面推荐用dmenu
+下拉式终端：guake
+
+窗口管理
+不喜欢unity的，推荐：cinnamon 
+需要更加轻量级的，推荐：lxde
+需要羽量级的，推荐：awesome
+以上窗口管理器安装后注销，然后在登陆框选择就可以
+
+常用软件
+最好用的终端：terminator
+
+
+技巧篇
+让shell更好用：
+彩色终端，不同类型的文件彩色化：https://git.umlife.net/snippets/10
+更NB的shell（更强大的自动补全等等）：https://github.com/sjl/oh-my-zsh
